@@ -1,6 +1,6 @@
-Code Book
 
-Subject ID
+Title of each variable:
+
  +- activity: the activity that the subject was doing at the time of the measurement
  +- tBodyAcc-mean-X        
  +- tBodyAcc-mean-Y
